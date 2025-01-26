@@ -1,4 +1,4 @@
-# Remote Monkey Kit
+# Remote 
 
 Ce kit inclut des ressources et une architecture prête à l'emploi.
 Ce projet est conçu pour être utilisé comme base pour suivre mes tutoriels vidéo sur YouTube.
